@@ -24,7 +24,7 @@ Create a virtual environment (we used conda). When you activate that virtual env
 
 ## How to run the code
 
-Before you run the code, you must select the image size to be used in dataset creation, training & test. Inside each file there is a line that you need to change. By default, these values are set to with=320, height=240. You can set them to any value that you want.
+Before you run the code, you must select the image size to be used in dataset creation, training & test. Inside each file there is a line that you need to change. By default, these values are set to width=320, height=240. You can set them to any value that you want.
 
 (1) Create the training & validatin datasets: <br>
 
