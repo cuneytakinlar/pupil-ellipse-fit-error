@@ -9,7 +9,7 @@ Semantic segmentation of images by Fully Convolutional Neural Networks (FCN) has
 ## Paper & Citation
 
 This paper has been accepted for publication in Elsevier Expert Systems with Applications. If you use the code given here, please cite this paper <br>
-Cuneyt Akinlar, Hatice Kubra Kucukkartal, Cihan Topal. Accurate CNN-based Pupil Segmentation with an Ellipse Fit Error Regularization Term. Accepted for publication in Expert Systems with Applications.
+Cuneyt Akinlar, Hatice Kubra Kucukkartal, Cihan Topal. Accurate CNN-based Pupil Segmentation with an Ellipse Fit Error Regularization Term. Expert Systems with Applications, vol. 188, pp. 116004, Feb. 2022. https://doi.org/10.1016/j.eswa.2021.116004.
 
 ## LPW Dataset & GT Segmentation Maps
 
